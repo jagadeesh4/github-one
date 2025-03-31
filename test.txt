@@ -1,1 +1,2 @@
 create the test one txt files
+insert the date into the table
